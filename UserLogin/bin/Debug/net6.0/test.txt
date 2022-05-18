@@ -1,0 +1,13 @@
+﻿16.03.2022 г. 19:57:46;Yoana1212;ADMIN;Successfully logged in!23.03.2022 г. 23:45:20;Yoana1212;ADMIN;Successfully logged in!The password should be 5 or more symbols!
+The username should be 5 or more symbols!
+The username should be 5 or more symbols!
+The password should be 5 or more symbols!
+Missing username!
+Missing password!
+The password should be 5 or more symbols!
+There is no such user!
+18.05.2022 г. 16:32:57;yo23ana;ADMIN;Successful Login18.05.2022 г. 16:36:14;yo23ana;ADMIN;Successful Login18.05.2022 г. 16:37:22;yo23ana;ADMIN;Successful Login18.05.2022 г. 16:39:28;yo23ana;ADMIN;Successful Login18.05.2022 г. 16:41:30;yo23ana;ADMIN;Successful Login18.05.2022 г. 16:42:51;yo23ana;ADMIN;Successful Login18.05.2022 г. 16:50:17;yo23ana;ADMIN;Successful LoginThe password should be 5 or more symbols!
+18.05.2022 г. 16:55:17;yo23ana;ADMIN;Successful Login18.05.2022 г. 16:56:15;yo23ana;ADMIN;Successful Login18.05.2022 г. 17:00:49;yo23ana;ADMIN;Successful Login18.05.2022 г. 17:02:12;yo23ana;ADMIN;Successful LoginThe password should be 5 or more symbols!
+The username should be 5 or more symbols!
+The username should be 5 or more symbols!
+18.05.2022 г. 17:17:29;denislav;STUDENT;Successful Login
